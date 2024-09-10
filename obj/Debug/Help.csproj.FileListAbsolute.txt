@@ -1,0 +1,10 @@
+C:\Users\casia\source\repos\Help\bin\Debug\Leaf.xNet.dll
+C:\Users\casia\source\repos\Help\bin\Debug\Leaf.xNet.xml
+C:\Users\casia\source\repos\Help\obj\Debug\Help.csproj.AssemblyReference.cache
+C:\Users\casia\source\repos\Help\obj\Debug\Help.csproj.CoreCompileInputs.cache
+C:\Users\casia\source\repos\Help\obj\Debug\Help.csproj.Up2Date
+C:\Users\casia\source\repos\Help\bin\Debug\BlackJack_Project.exe.config
+C:\Users\casia\source\repos\Help\bin\Debug\BlackJack_Project.exe
+C:\Users\casia\source\repos\Help\bin\Debug\BlackJack_Project.pdb
+C:\Users\casia\source\repos\Help\obj\Debug\BlackJack_Project.exe
+C:\Users\casia\source\repos\Help\obj\Debug\BlackJack_Project.pdb
